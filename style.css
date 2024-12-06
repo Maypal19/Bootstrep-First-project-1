@@ -1,0 +1,271 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+
+
+/* SECTION - 1 START */
+
+.bannerContent h1{
+    font-size: 52px;
+    font-weight: 700;
+}
+.bannerContent h1 span{
+    color: #2699FB;
+    background: url("./images/Vector\ 63.png") no-repeat bottom ;
+}
+
+.bannerContent p{
+    font-size: 22px;
+}
+.bannerContent ul{
+    list-style: none;
+}
+.bannerContent ul li{
+    font-size: 22px;
+}
+.bannerContent ul li i{
+    color: #2699FB;
+}
+
+.bannerContentbtn button{
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 5px;
+}
+.bannerContentbtn button:first-child{
+    color: #fff;
+    background: linear-gradient(to right, #0ACEFE,#2699FB);
+}
+
+.bannerform{
+    padding: 40px;
+    border-radius: 10px;
+}
+.bannerform h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+.bannerform button{
+    padding: 10px 0px;
+    background: linear-gradient(to right, #0ACEFE,#2699FB);
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    width: 100%;
+}
+
+.counterSection h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: #2699FB;
+}
+/* SECTION - 1 END */
+
+/* SECTION - 2 START  */
+
+.highlights-section{
+    background-color: #F7FAFF;
+}
+.highlights-section h2{
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A2134;
+}
+.highlights-section p{
+    font-size: 18px;
+}
+
+.highlightsItems h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+.highlightsItems p{
+    font-size: 15px;
+}
+
+.btn-success{
+   
+    background: linear-gradient(to right, #0ACEFE,#2699FB);
+}
+/* SECTION - 2 END */
+
+/* SECTION - 3 START */
+
+.text-center h2{
+    color: #0A2134;
+    font-size: 44px;
+    font-weight: 700;
+}
+.text-center p{
+    font-size: 18px;
+    font-weight: 400;
+}
+.top-career-items h5{
+    font-size: 18px;
+    font-weight: 600;
+}
+.top-career-items p{
+    font-size: 15px;
+}
+
+/* SECTION - 3 END */
+/* SECTION - 4 START */
+
+.Certified h4{
+    font-size:36px;
+    font-weight: 700;
+    color: #0A2134;
+}
+.section-4{
+    background-color: #F7FAFF;
+}
+.Official h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+.Official p{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+/* SECTION - 4 END */
+/* SECTION - 5 START */
+
+.curriculum h4{
+    color: #0A2134;
+    font-size:44px ;
+    font-weight: 700;
+}
+.curriculum p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #0A2134;
+}
+ .list ul :hover{
+    background-color: #dadce0;
+}
+.list ul{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 500;
+    
+}
+.list ul li a{
+    color: #0A2134;
+    text-decoration: none;
+}
+.check i{
+    
+    color: #0ACEFE;
+}
+.check p{
+    font-size: 22px;
+}
+
+/* SECTION - 5 END */
+/* SECTION - 6 START */
+
+.A{
+    background: #F7FAFF;
+}
+.digital-Marketing p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #0A2134;
+}
+.digital-Marketing h4{
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A2134;
+}
+.learn h5{
+    font-size: 20px;
+    font-weight: 600;
+    color: #0A2134;
+}
+.learn p
+{
+    font-size: 18px;
+    font-weight: 400;
+    color: #0A2134;
+}
+.Students h4{
+    font-size: 44px;
+    font-weight: 700;
+}
+.Students p{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/* SECTION - 6 END */
+/* SECTION - 7 START */
+
+.course{
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+}
+.course h4{
+    color: #F7FAFF;
+    font-weight: 700;
+}
+.course p{
+    color: #F7FAFF;
+    font-size: 18px;
+    font-weight: 400;
+}
+.course button{
+    font-weight: 600;
+    background-color: #F7FAFF;
+}
+
+/* SECTION - 7 END */
+
+/* SECTION - 8 START */
+
+.section-8{
+background-color: #F7FAFF;
+}
+.digital h4{
+    font-size: 44px;
+    font-weight: 700;
+    color: #0A2134;
+}
+.digital p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #0A2134;
+}
+.website {
+    border: 1px solid #2699FB;
+    border-radius: 5px;
+}
+.website h5{
+    color: #2699FB;
+}
+
+/* SECTION - 8 END */
+
+/* SECTION - 9 START */
+
+.hiring h4{
+    font-size: 36px;
+    font-weight: 700;
+}
+
+
+/* SECTION - 9 END */
+/* FOOTER START */
+
+.dolor{
+    background-color: #0A2540;
+}
+.dolor p{
+    color: #F7FAFF;
+    font-size: 16px;
+}
+.dolor hr{
+    color: #F7FAFF;
+}
+
+/* FOOTER END */

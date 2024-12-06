@@ -1,0 +1,88 @@
+/* @media START */
+
+@media  only screen and (min-width:200px) and (max-width:575px) {
+    .btn-outer{
+        position: fixed;
+       bottom: 0px;
+       width: 100%;
+       background: #fff;
+       margin-left: -20px;
+       justify-content: center !important;     
+    }
+    .bannerContent h1 {
+        font-size: 28px !important ;
+        font-weight: 700 !important;
+        line-height: 35px;
+        text-align: center;
+    }
+    .bannerContent br{
+        display: none;
+    }
+
+    .bannerContent p,.bannerContent ul li{
+        font-size: 14px;
+    }
+
+    .bannerContentbtn{
+        font-size: 12px;
+        padding: 0px;
+        flex-direction: column;
+    }
+    .bannerContentbtn button{
+        width: 100% !important;
+    }
+
+    .bannerform{
+        padding: 2  0px;
+    }
+
+
+    .highlights-section h2{
+        font-size: 28px !important;
+        
+
+    }
+
+    .curriculum h4{
+        color: #0A2134;
+        font-size:34px !important ;
+        font-weight: 700;
+    }
+    .curriculum p{
+        color: #0A2134;
+        font-size:14px !important ;
+        font-weight: 200;
+    }
+    
+    .digital h4{
+        font-size: 24px !important;
+        font-weight: 700;
+        color: #0A2134;
+    }
+    .digital p{
+        font-size: 10px !important;
+        font-weight: 400;
+        color: #0A2134;
+    }
+}
+
+
+@media (min-width: 1400px) {
+    .container, .container-lg .container-md .container-sm .container-xl .container-xxl {
+        max-width: 1170px;
+    }
+}
+
+
+
+/* @media START */
+
+/* HEADER START */
+.call{
+    
+    color: #fff;
+    padding: 10px 18px;
+    background:linear-gradient( to right, #0ACEFE ,#2699FB);
+} 
+
+/* HEADER END */
